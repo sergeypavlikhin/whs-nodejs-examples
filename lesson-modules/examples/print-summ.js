@@ -1,0 +1,1 @@
+exports.printSumm = (x, y) => console.log(`${x} + ${y} = ${x + y}`);

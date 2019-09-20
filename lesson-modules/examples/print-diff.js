@@ -1,0 +1,1 @@
+exports.printDiff = (x, y) => console.log(`${x} - ${y} = ${x - y}`);
